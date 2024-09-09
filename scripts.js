@@ -1,3 +1,4 @@
+/* @jsx React.createElement */
 const { useState, useEffect } = React;
 const { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } = Recharts;
 
